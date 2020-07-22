@@ -34,6 +34,7 @@ export function loadLists() {
                     labels: ['#54e1f7'],
                     user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
                 },
+
             ]
         },
         {
